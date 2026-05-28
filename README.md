@@ -85,6 +85,6 @@ The python dashboard displays the following:
 
 # Author 
 
-Cesar Fermin
+**Cesar Fermin**
 Mechanical Engineering Student
 University of Wisconsin-Madison
